@@ -40,6 +40,7 @@
    
   body{
       width: 100%;
+      length 50%;
   }
   #header{
      display: flex;
